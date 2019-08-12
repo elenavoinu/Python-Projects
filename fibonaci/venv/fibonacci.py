@@ -1,3 +1,5 @@
+# Elena Voinu
+
 def compute_nth_fib(num):
     # if base case...
     if num < 0:
