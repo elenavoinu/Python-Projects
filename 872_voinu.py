@@ -1,3 +1,4 @@
+# Elena Voinu
 '''Retype and run, note incorrect behavior. 
 Then fix errors in the code, which should print num_stars asterisks.
 while num_printed != num_stars:
